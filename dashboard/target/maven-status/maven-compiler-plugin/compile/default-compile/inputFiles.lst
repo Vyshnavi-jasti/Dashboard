@@ -1,0 +1,7 @@
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/DashboardApplication.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/ResponseStatus/StatusEnum.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/studentController/studentController.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/studentModel/studentModel.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/studentRepository/studentRepo.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/studentResponse/studentResponse.java
+/home/vyshnavi/dashboard/src/main/java/com/student/dashboard/studentService/studentService.java
